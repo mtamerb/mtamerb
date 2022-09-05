@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Spring Boot
+- 🔭 I’m currently learning Spring Boot
 ---
 
 🧰 Toolbox
