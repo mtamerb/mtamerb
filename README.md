@@ -6,6 +6,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux Logo" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" alt= "Sass Logo" width="60" height="60"/>
 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow Logo" width="60" height="60"/> 
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=mtamerb&color=red)
