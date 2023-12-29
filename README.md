@@ -13,7 +13,7 @@
 
 ---
 
-![Tamer 's github stats](https://github-readme-stats.vercel.app/api?username=mtamerb&show_icons=true&theme=radical)
+![Tamer 's github stats](https://github-readme-stats.vercel.app/api?username=mtamerb&show_icons=true&theme=ambient_gradient)
 
 ![](https://komarev.com/ghpvc/?username=mtamerb&color=red)
 
